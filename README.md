@@ -13,3 +13,12 @@
 cdesch-dev/cdesch-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## My Stats
+
+<p>
+<a href="https://github.com/cdesch-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdesch-dev&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdesch-dev&layout=compact&langs_count=8&hide=matlab,html&theme=tokyonight" />
+</a>
+</p>
